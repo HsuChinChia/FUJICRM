@@ -1,0 +1,17 @@
+{
+  "content": "内容",
+  "type": "类型",
+  "IP": "IP",
+  "PHONE_NUMBER": "电话",
+  "TRANSACTION_ACCOUNT": "帐户",
+  "COMMUNICATION_SOFTWARE": "通讯软体",
+  "creator": "建立人",
+  "commName": "通讯软体",
+  "LINE": "LINE",
+  "WHATAPP": "WHATAPP",
+  "FACEBOOK_MESSENGER": "FACEBOOK",
+  "TELEGRAM": "TELEGRAM",
+  "WEIXIN": "微信",
+  "QQ": "QQ",
+  "VIBER": "Viber"
+}

@@ -1,0 +1,26 @@
+/*
+是用來製作因應背景產生黑/白文字顏色的函式
+Bootstrap內 YIQ顏色演算，當輸入判定用的顏色過深，傳出白色，若顏色過淺，傳出黑色
+*/
+
+$gray-900: #212529 !default;
+$white : #fff !default;
+
+// The yiq lightness value that determines when the lightness of color changes from "dark" to "light". Acceptable values are between 0 and 255.
+$yiq-contrasted-threshold: 150 !default;
+// Customize the light and dark text colors for use in our YIQ color contrast function.
+$yiq-text-dark: $gray-900 !default;
+$yiq-text-light: $white !default;
+// Color contrast
+@function color-yiq($color) {
+  $r: red($color);
+  $g: green($color);
+  $b: blue($color);
+  $yiq: (($r * 299) + ($g * 587) + ($b * 114)) / 1000;
+  @if ($yiq >=$yiq-contrasted-threshold) {
+    @return $yiq-text-dark;
+  }
+  @else {
+    @return $yiq-text-light;
+  }
+}

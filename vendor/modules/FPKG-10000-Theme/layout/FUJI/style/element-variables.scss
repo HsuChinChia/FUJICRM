@@ -1,0 +1,157 @@
+@import "./style.scss";
+
+/* 改变主题色变量 */
+$--color-primary: #377dff;
+$--color-success: #4CAF50;
+$--color-warning: #FF9800;
+$--color-info: #9E9E9E;
+$--color-danger: #F44336;
+/* 改变 icon 字体路径变量，必需 */
+// $--font-path: '~element-plus/lib/theme-chalk/fonts';
+
+@import "~element-plus/packages/theme-chalk/src/index";
+
+// .el-button.el-button--primary {
+//     color: #5b5b5b
+// }
+
+@media all and (max-width: 767px) {
+  .RWD-Dialog.el-dialog {
+    width: 100% !important;
+  }
+}
+
+/* 手指效果 */
+
+.hover {
+  cursor: pointer;
+}
+
+/* dialog 背景色+底線 */
+.el-dialog__header {
+  background-color: #f4f4f4;
+  border-bottom: 1px solid #d3dce6;
+}
+
+// select width設為100%
+.el-select {
+  width: 100%;
+}
+
+.el-select-dropdown {
+  max-width: 80%;
+}
+
+.el-drawer__header {
+  margin-bottom: 0;
+}
+
+/* input固定文字大小，以免iphone自動放大 */
+.el-input,
+.el-textarea__inner {
+  font-size: 16px;
+}
+
+// 修改Loading
+.el-loading-spinner .circular {
+  // width: 42px;
+  // height: 42px;
+  // animation: loading-rotate 2s linear infinite;
+  // display: none;
+}
+
+.el-loading-mask {
+  position: fixed;
+}
+
+.el-loading-spinner {
+  // background: url("./Loading.gif") no-repeat;
+  // background-size: 150px 150px;
+  width: 100%;
+  height: 100%;
+  // position: relative;
+  // top: 40%;
+  // left: calc(50% - 75px);
+}
+
+//   2019-11-11 修改table 字型大小 及 間格線顏色
+
+.el-table--mini {
+  font-size: 0.9rem;
+}
+
+.el-table--border td {
+  border-right: 1px solid #dcdfe6;
+  border-bottom: 1px solid #dcdfe6;
+}
+
+.el-table th.is-leaf {
+  border-bottom: 1px solid #dcdfe6;
+}
+
+.el-table--border th {
+  border-right: 1px solid #dcdfe6;
+}
+
+/** 修改按鈕 */
+// .el-button.el-button--default.el-button--default {
+//     &:hover {
+//         color: #333;
+//         background: $primary;
+
+//     }
+// }
+/** 修改table hover和點選 效果 */
+// .el-table__body tr.hover-row.current-row > td,
+// .el-table__body tr.hover-row.el-table__row--striped.current-row > td,
+// .el-table__body tr.hover-row.el-table__row--striped > td,
+// .el-table__body tr.hover-row > td {
+//   background-color: #ffeedd !important;
+// }
+// .el-table--enable-row-hover .el-table__body tr:hover > td {
+//   background-color: #ffeedd;
+// }
+// .el-table tbody .current-row > td {
+//   background-color: #ffeedd !important;
+// }
+
+/** 修改按鈕為a時的hover效果 */
+a.el-button {
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+/** loadingClass 這是給Editor上傳功能的視窗
+    因為z-index過大 所以只好再給更大的*/
+.loadingClass {
+  z-index: 65540 !important;
+}
+
+@media all and (max-width: 767px) {
+  .el-message-box {
+    width: 100% !important;
+  }
+
+  .el-form-item {
+    margin-bottom: 3px;
+
+    .el-form-item__content {
+      line-height: 30px;
+    }
+
+    .el-form-item__label {
+      line-height: 30px;
+    }
+  }
+}
+
+.el-form-item__label {
+  font-weight: bold;
+}
+
+.el-form-item__label,
+.el-form-item__content {
+  font-size: 16px;
+
+}

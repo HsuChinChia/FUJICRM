@@ -1,0 +1,317 @@
+[
+  {
+    "p4_node_name": "帳號管理",
+    "p4_node_code": "NODE_1",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "帳號",
+    "p4_node_code": "NODE_2",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "p4_node_name": "角色管理",
+    "p4_node_code": "NODE_3",
+    "icon": "fas fa-user-tag"
+  },
+  {
+    "p4_node_name": "權限",
+    "p4_node_code": "NODE_4",
+    "icon": "fas fa-palette"
+  },
+  {
+    "p4_node_name": "組織架構",
+    "p4_node_code": "NODE_5",
+    "icon": "fas fa-sitemap"
+  },
+  {
+    "p4_node_name": "部門",
+    "p4_node_code": "NODE_6",
+    "icon": "fas fa-building"
+  },
+  {
+    "p4_node_name": "商戶",
+    "p4_node_code": "NODE_7",
+    "icon": "fas fa-handshake"
+  },
+  {
+    "p4_node_name": "分類",
+    "p4_node_code": "NODE_8",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "營運",
+    "p4_node_code": "NODE_9",
+    "icon": "fa-solid fa-user-tie"
+  },
+  {
+    "p4_node_name": "供應商",
+    "p4_node_code": "NODE_9",
+    "icon": "fas fa-keyboard"
+  },
+  {
+    "p4_node_name": "會員管理",
+    "p4_node_code": "NODE_10",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "系統設定",
+    "p4_node_code": "NODE_11",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "參數設定",
+    "p4_node_code": "NODE_12",
+    "icon": "fas fa-wrench"
+  },
+  {
+    "p4_node_name": "網站設定",
+    "p4_node_code": "NODE_13",
+    "icon": "fas fa-window-maximize"
+  },
+  {
+    "p4_node_name": "商戶總覽",
+    "p4_node_code": "NODE_14",
+    "icon": "fa-solid fa-file-signature"
+  },
+  {
+    "p4_node_name": "倉庫管理",
+    "p4_node_code": "NODE_15",
+    "icon": "fas fa-warehouse"
+  },
+  {
+    "p4_node_name": "商品管理",
+    "p4_node_code": "NODE_16",
+    "icon": "fas fa-cubes"
+  },
+  {
+    "p4_node_name": "品項",
+    "p4_node_code": "NODE_17",
+    "icon": "fas fa-archive"
+  },
+  {
+    "p4_node_name": "分類",
+    "p4_node_code": "NODE_18",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "品項",
+    "p4_node_code": "NODE_19",
+    "icon": "fas fa-archive"
+  },
+  {
+    "p4_node_name": "點數",
+    "p4_node_code": "NODE_20",
+    "icon": "fas fa-dollar-sign"
+  },
+  {
+    "p4_node_name": "庫存維護",
+    "p4_node_code": "NODE_21",
+    "icon": "fas fa-boxes"
+  },
+  {
+    "p4_node_name": "申請",
+    "p4_node_code": "NODE_22",
+    "icon": "fas fa-edit"
+  },
+  {
+    "p4_node_name": "進貨單",
+    "p4_node_code": "NODE_23",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "銷貨單",
+    "p4_node_code": "NODE_24",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "調播單",
+    "p4_node_code": "NODE_25",
+    "icon": "fas fa-file-upload"
+  },
+  {
+    "p4_node_name": "倉庫綁定",
+    "p4_node_code": "NODE_26",
+    "icon": "fas fa-box-open"
+  },
+  {
+    "p4_node_name": "兌換",
+    "p4_node_code": "NODE_27",
+    "icon": "fas fa-clipboard-check"
+  },
+  {
+    "p4_node_name": "審核",
+    "p4_node_code": "NODE_28",
+    "icon": "fas fa-paste"
+  },
+  {
+    "p4_node_name": "進貨單",
+    "p4_node_code": "NODE_29",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "銷貨單",
+    "p4_node_code": "NODE_30",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "調撥單",
+    "p4_node_code": "NODE_31",
+    "icon": "fas fa-file-upload"
+  },
+  {
+    "p4_node_name": "審核",
+    "p4_node_code": "NODE_32",
+    "icon": "fas fa-paste"
+  },
+  {
+    "p4_node_name": "運動彩券",
+    "p4_node_code": "NODE_33",
+    "icon": "fas fa-ticket-alt"
+  },
+  {
+    "p4_node_name": "會員資訊",
+    "p4_node_code": "NODE_34",
+    "icon": "fas fa-info-circle"
+  },
+  {
+    "p4_node_name": "報表管理",
+    "p4_node_code": "NODE_35",
+    "icon": "fas fa-file-powerpoint"
+  },
+  {
+    "p4_node_name": "運彩折抵",
+    "p4_node_code": "NODE_36",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "系統",
+    "p4_node_code": "NODE_37",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "代理",
+    "p4_node_code": "NODE_38",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "會員",
+    "p4_node_code": "NODE_39",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "包裝單位",
+    "p4_node_code": "NODE_40",
+    "icon": "fas fa-box-open"
+  },
+  {
+    "p4_node_name": "會員等級",
+    "p4_node_code": "NODE_41",
+    "icon": "fas fa-id-badge"
+  },
+  {
+    "p4_node_name": "會員等級",
+    "p4_node_code": "NODE_42",
+    "icon": "fas fa-id-badge"
+  },
+  {
+    "p4_node_name": "審核",
+    "p4_node_code": "NODE_43",
+    "icon": "fas fa-keyboard"
+  },
+  {
+    "p4_node_name": "實名認證",
+    "p4_node_code": "NODE_44",
+    "icon": "fas fa-user-ninja"
+  },
+  {
+    "p4_node_name": "帳戶認證",
+    "p4_node_code": "NODE_45",
+    "icon": "fas fa-money-check-alt"
+  },
+  {
+    "p4_node_name": "簡訊商",
+    "p4_node_code": "NODE_46",
+    "icon": "fas fa-sms"
+  },
+  {
+    "p4_node_name": "金流商",
+    "p4_node_code": "NODE_47",
+    "icon": "fas fa-comment-dollar"
+  },
+  {
+    "p4_node_name": "點數管理",
+    "p4_node_code": "NODE_48",
+    "icon": "fas fa-comment-dollar"
+  },
+  {
+    "p4_node_name": "錢包操作",
+    "p4_node_code": "NODE_49",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "點數管理",
+    "p4_node_code": "NODE_50",
+    "icon": "fas fa-comment-dollar"
+  },
+  {
+    "p4_node_name": "錢包操作",
+    "p4_node_code": "NODE_51",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "資料維護",
+    "p4_node_code": "NODE_52",
+    "icon": "fas fa-file-archive"
+  },
+  {
+    "p4_node_name": "遊戲",
+    "p4_node_code": "NODE_54",
+    "icon": "fas fa-gamepad"
+  },
+  {
+    "p4_node_name": "API資訊",
+    "p4_node_code": "NODE_55",
+    "icon": "fas fa-cog"
+  },
+  {
+    "p4_node_name": "手續費",
+    "p4_node_code": "NODE_56",
+    "icon": "fas fa-dollar-sign"
+  },
+  {
+    "p4_node_name": "代收順序",
+    "p4_node_code": "NODE_57",
+    "icon": "fas fa-align-left"
+  },
+  {
+    "p4_node_name": "遊戲",
+    "p4_node_code": "NODE_58",
+    "icon": "far fa-file-powerpoint"
+  },
+  {
+    "p4_node_name": "注單",
+    "p4_node_code": "NODE_59",
+    "icon": "fas fa-file-powerpoint"
+  },
+  {
+    "p4_node_name": "遊戲線路",
+    "p4_node_code": "NODE_60",
+    "icon": "fas fa-file-excel"
+  },
+  {
+    "p4_node_name": "儲值",
+    "p4_node_code": "NODE_61",
+    "icon": "fas fa-file-invoice-dollar"
+  },
+  {
+    "p4_node_name": "題庫管理",
+    "p4_node_code": "NODE_62",
+    "icon": "fas fa-file-contract"
+  },
+  {
+    "p4_node_name": "題庫維護",
+    "p4_node_code": "NODE_63",
+    "icon": "fas fa-file-signature"
+  }
+]

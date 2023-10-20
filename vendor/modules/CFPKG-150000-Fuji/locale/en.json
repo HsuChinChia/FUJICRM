@@ -1,0 +1,67 @@
+{
+  "permission": {
+    "role_description": "List of permission roles",
+    "role": "List of roles"
+  },
+  "account-system_description": "List of system account information",
+  "account-system": "System account list",
+  "create_account": "Create Account",
+  "account-system_lists": "Account List",
+  "account-system_placeholder": "Account, Name, Company Name",
+  "company-setting_description": "List of company settings overview",
+  "company-setting_placeholder": "Company Name, Tax ID, Name of Person in Charge",
+  "create_company-setting": "Create Company",
+  "account-loginRecord_description": "List of login records for system accounts",
+  "account-loginRecord_lists": "Login Record List",
+  "company-setting_lists": "Company List",
+  "company-setting": {
+    "name": "Company Name",
+    "tax_id": "Tax ID",
+    "name_of_person_in_charge": "Name of Person in Charge",
+    "phone_of_person_in_charge": "Person in Charge Phone",
+    "country_of_citizenship": "Country of Citizenship",
+    "address": "Company Address",
+    "memo": "Remarks"
+  },
+  "account-company": {
+    "account": "Account",
+    "password": "Password",
+    "status": "Status",
+    "status_0": "Enabled",
+    "status_1": "Disabled",
+    "memo": "Remarks",
+    "role_id": "Role ID",
+    "csg_id": "Company Setting ID",
+    "tel": "Phone",
+    "email": "Email",
+    "department": "Department",
+    "position": "Position"
+  },
+  "upload": "Upload File",
+  "create_kms-data": "Create KMS",
+  "kms-data_description": "List of video KMS overview",
+  "kms-data_placeholder": "Title, Company Name, Initiator, Participants",
+  "kms-data": {
+    "title": "Title",
+    "datetime": "Date",
+    "created_p3_ant_id": "Initiator",
+    "participant_p3_ant_id": "Participants",
+    "csg_id": "Company",
+    "content": "Content",
+    "ids": "Attachments"
+  },
+  "create_device-binding": "Create Device",
+  "device-binding_description": "List of video device bindings",
+  "device-binding_placeholder": "MAC Address, Company Name",
+  "device-binding": {
+    "csg_id": "Company",
+    "csg_account": "Company Account"
+  },
+  "refresh": "Refresh",
+  "video-system_description": "Sort cards by company name and connection time, click the card to enter video",
+  "video-system_placeholder": "ID, Name, Company Name",
+  "remember": "Remember Account",
+  "forget": "Forget Password",
+  "accountLogin": "Account Login",
+  "video-system": "Video System"
+}

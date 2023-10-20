@@ -1,0 +1,942 @@
+[
+  {
+    "p4_node_name": "帳號管理",
+    "p4_node_code": "NODE_1",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "帳號",
+    "p4_node_code": "NODE_2",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "p4_node_name": "角色管理",
+    "p4_node_code": "NODE_3",
+    "icon": "fas fa-user-tag"
+  },
+  {
+    "p4_node_name": "權限",
+    "p4_node_code": "NODE_4",
+    "icon": "fas fa-palette"
+  },
+  {
+    "p4_node_name": "組織架構",
+    "p4_node_code": "NODE_5",
+    "icon": "fas fa-sitemap"
+  },
+  {
+    "p4_node_name": "部門",
+    "p4_node_code": "NODE_6",
+    "icon": "fas fa-building"
+  },
+  {
+    "p4_node_name": "供應商管理",
+    "p4_node_code": "NODE_7",
+    "icon": "fas fa-handshake"
+  },
+  {
+    "p4_node_name": "分類",
+    "p4_node_code": "NODE_8",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "供應商",
+    "p4_node_code": "NODE_9",
+    "icon": "fas fa-keyboard"
+  },
+  {
+    "p4_node_name": "會員管理",
+    "p4_node_code": "NODE_10",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "系統設定",
+    "p4_node_code": "NODE_11",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "參數設定",
+    "p4_node_code": "NODE_12",
+    "icon": "fas fa-wrench"
+  },
+  {
+    "p4_node_name": "網站設定",
+    "p4_node_code": "NODE_13",
+    "icon": "fas fa-window-maximize"
+  },
+  {
+    "p4_node_name": "網站設定",
+    "p4_node_code": "NODE_14",
+    "icon": "fas fa-tasks"
+  },
+  {
+    "p4_node_name": "倉庫管理",
+    "p4_node_code": "NODE_15",
+    "icon": "fas fa-warehouse"
+  },
+  {
+    "p4_node_name": "商品管理",
+    "p4_node_code": "NODE_16",
+    "icon": "fas fa-cubes"
+  },
+  {
+    "p4_node_name": "品項",
+    "p4_node_code": "NODE_17",
+    "icon": "fas fa-archive"
+  },
+  {
+    "p4_node_name": "分類",
+    "p4_node_code": "NODE_18",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "品項",
+    "p4_node_code": "NODE_19",
+    "icon": "fas fa-archive"
+  },
+  {
+    "p4_node_name": "點數",
+    "p4_node_code": "NODE_20",
+    "icon": "fas fa-dollar-sign"
+  },
+  {
+    "p4_node_name": "庫存維護",
+    "p4_node_code": "NODE_21",
+    "icon": "fas fa-boxes"
+  },
+  {
+    "p4_node_name": "申請",
+    "p4_node_code": "NODE_22",
+    "icon": "fas fa-edit"
+  },
+  {
+    "p4_node_name": "進貨單",
+    "p4_node_code": "NODE_23",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "銷貨單",
+    "p4_node_code": "NODE_24",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "調播單",
+    "p4_node_code": "NODE_25",
+    "icon": "fas fa-file-upload"
+  },
+  {
+    "p4_node_name": "倉庫綁定",
+    "p4_node_code": "NODE_26",
+    "icon": "fas fa-box-open"
+  },
+  {
+    "p4_node_name": "兌換",
+    "p4_node_code": "NODE_27",
+    "icon": "fas fa-clipboard-check"
+  },
+  {
+    "p4_node_name": "審核",
+    "p4_node_code": "NODE_28",
+    "icon": "fas fa-paste"
+  },
+  {
+    "p4_node_name": "進貨單",
+    "p4_node_code": "NODE_29",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "銷貨單",
+    "p4_node_code": "NODE_30",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "調撥單",
+    "p4_node_code": "NODE_31",
+    "icon": "fas fa-file-upload"
+  },
+  {
+    "p4_node_name": "審核",
+    "p4_node_code": "NODE_32",
+    "icon": "fas fa-paste"
+  },
+  {
+    "p4_node_name": "運動彩券",
+    "p4_node_code": "NODE_33",
+    "icon": "fas fa-ticket-alt"
+  },
+  {
+    "p4_node_name": "會員資訊",
+    "p4_node_code": "NODE_34",
+    "icon": "fas fa-info-circle"
+  },
+  {
+    "p4_node_name": "報表管理",
+    "p4_node_code": "NODE_35",
+    "icon": "fas fa-file-powerpoint"
+  },
+  {
+    "p4_node_name": "運彩折抵",
+    "p4_node_code": "NODE_36",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "系統",
+    "p4_node_code": "NODE_37",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "代理",
+    "p4_node_code": "NODE_38",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "會員",
+    "p4_node_code": "NODE_39",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "包裝單位",
+    "p4_node_code": "NODE_40",
+    "icon": "fas fa-box-open"
+  },
+  {
+    "p4_node_name": "會員等級",
+    "p4_node_code": "NODE_41",
+    "icon": "fas fa-id-badge"
+  },
+  {
+    "p4_node_name": "會員等級",
+    "p4_node_code": "NODE_42",
+    "icon": "fas fa-id-badge"
+  },
+  {
+    "p4_node_name": "審核",
+    "p4_node_code": "NODE_43",
+    "icon": "fas fa-keyboard"
+  },
+  {
+    "p4_node_name": "實名認證",
+    "p4_node_code": "NODE_44",
+    "icon": "fas fa-user-ninja"
+  },
+  {
+    "p4_node_name": "帳戶認證",
+    "p4_node_code": "NODE_45",
+    "icon": "fas fa-money-check-alt"
+  },
+  {
+    "p4_node_name": "簡訊商",
+    "p4_node_code": "NODE_46",
+    "icon": "fas fa-sms"
+  },
+  {
+    "p4_node_name": "金流商",
+    "p4_node_code": "NODE_47",
+    "icon": "fas fa-comment-dollar"
+  },
+  {
+    "p4_node_name": "點數管理",
+    "p4_node_code": "NODE_48",
+    "icon": "fas fa-comment-dollar"
+  },
+  {
+    "p4_node_name": "錢包操作",
+    "p4_node_code": "NODE_49",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "點數管理",
+    "p4_node_code": "NODE_50",
+    "icon": "fas fa-comment-dollar"
+  },
+  {
+    "p4_node_name": "錢包操作",
+    "p4_node_code": "NODE_51",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "資料維護",
+    "p4_node_code": "NODE_52",
+    "icon": "fas fa-file-archive"
+  },
+  {
+    "p4_node_name": "遊戲",
+    "p4_node_code": "NODE_54",
+    "icon": "fas fa-gamepad"
+  },
+  {
+    "p4_node_name": "API資訊",
+    "p4_node_code": "NODE_55",
+    "icon": "fas fa-cog"
+  },
+  {
+    "p4_node_name": "手續費",
+    "p4_node_code": "NODE_56",
+    "icon": "fas fa-dollar-sign"
+  },
+  {
+    "p4_node_name": "代收順序",
+    "p4_node_code": "NODE_57",
+    "icon": "fas fa-align-left"
+  },
+  {
+    "p4_node_name": "遊戲",
+    "p4_node_code": "NODE_58",
+    "icon": "far fa-file-powerpoint"
+  },
+  {
+    "p4_node_name": "注單",
+    "p4_node_code": "NODE_59",
+    "icon": "fas fa-file-powerpoint"
+  },
+  {
+    "p4_node_name": "遊戲線路",
+    "p4_node_code": "NODE_60",
+    "icon": "fas fa-file-excel"
+  },
+  {
+    "p4_node_name": "儲值",
+    "p4_node_code": "NODE_61",
+    "icon": "fas fa-file-invoice-dollar"
+  },
+  {
+    "p4_node_name": "題庫管理",
+    "p4_node_code": "NODE_62",
+    "icon": "fas fa-file-contract"
+  },
+  {
+    "p4_node_name": "題庫維護",
+    "p4_node_code": "NODE_63",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "出題作業",
+    "p4_node_code": "NODE_64",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "移桶申請",
+    "p4_node_code": "NODE_65",
+    "icon": "fas fa-dolly-flatbed"
+  },
+  {
+    "p4_node_name": "移桶",
+    "p4_node_code": "NODE_66",
+    "icon": "fas fa-dolly-flatbed"
+  },
+  {
+    "p4_node_name": "案件維護",
+    "p4_node_code": "NODE_67",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "管理",
+    "p4_node_code": "NODE_68",
+    "icon": "fas fa-cog"
+  },
+  {
+    "p4_node_name": "組別設定",
+    "p4_node_code": "NODE_69",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "營運管理",
+    "p4_node_code": "NODE_70",
+    "icon": "fas fa-cash-register"
+  },
+  {
+    "p4_node_name": "返水",
+    "p4_node_code": "NODE_71",
+    "icon": "fas fa-hand-holding-usd"
+  },
+  {
+    "p4_node_name": "建檔",
+    "p4_node_code": "NODE_72",
+    "icon": "fas fa-file-invoice"
+  },
+  {
+    "p4_node_name": "檢查",
+    "p4_node_code": "NODE_73",
+    "icon": "fas fa-search"
+  },
+  {
+    "p4_node_name": "品牌人物",
+    "p4_node_code": "NODE_74",
+    "icon": "fas fa-users"
+  },
+  {
+    "p4_node_name": "職業維護",
+    "p4_node_code": "NODE_75",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "p4_node_name": "案件查詢",
+    "p4_node_code": "NODE_76",
+    "icon": "fas fa-search"
+  },
+  {
+    "p4_node_name": "檢查",
+    "p4_node_code": "NODE_77",
+    "icon": "fas fa-search"
+  },
+  {
+    "p4_node_name": "單位設定",
+    "p4_node_code": "NODE_78",
+    "icon": "fas fa-cogs"
+  },
+  {
+    "p4_node_name": "系統帳號",
+    "p4_node_code": "NODE_79",
+    "icon": "fas fa-users-cog"
+  },
+  {
+    "p4_node_name": "會員帳號",
+    "p4_node_code": "NODE_80",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "p4_node_name": "錢包操作",
+    "p4_node_code": "NODE_81",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "報表",
+    "p4_node_code": "NODE_82",
+    "icon": "fas fa-file-contract"
+  },
+  {
+    "p4_node_name": "會員等級",
+    "p4_node_code": "NODE_83",
+    "icon": "fas fa-user"
+  },
+  {
+    "p4_node_name": "返水操作",
+    "p4_node_code": "NODE_84",
+    "icon": "fas fa-sliders-h"
+  },
+  {
+    "p4_node_name": "移桶",
+    "p4_node_code": "NODE_85",
+    "icon": "fas fa-dolly-flatbed"
+  },
+  {
+    "p4_node_name": "前台發佈",
+    "p4_node_code": "NODE_86",
+    "icon": "far fa-newspaper"
+  },
+  {
+    "p4_node_name": "版面維護",
+    "p4_node_code": "NODE_87",
+    "icon": "fas fa-file-image"
+  },
+  {
+    "p4_node_name": "廣告內容",
+    "p4_node_code": "NODE_88",
+    "icon": "fas fa-ad"
+  },
+  {
+    "p4_node_name": "儀錶板",
+    "p4_node_code": "NODE_89",
+    "icon": "fas fa-tachometer-alt"
+  },
+  {
+    "p4_node_name": "出入帳",
+    "p4_node_code": "NODE_90",
+    "icon": "fas fa-file-invoice-dollar"
+  },
+  {
+    "p4_node_name": "發放",
+    "p4_node_code": "NODE_91",
+    "icon": "fas fa-people-arrows"
+  },
+  {
+    "p4_node_name": "代收順序",
+    "p4_node_code": "NODE_92",
+    "icon": "fas fa-align-left"
+  },
+  {
+    "p4_node_name": "提領",
+    "p4_node_code": "NODE_93",
+    "icon": "fas fa-hand-holding-usd"
+  },
+  {
+    "p4_node_name": "設定",
+    "p4_node_code": "NODE_94",
+    "icon": "fas fa-cogs"
+  },
+  {
+    "p4_node_name": "客戶服務",
+    "p4_node_code": "NODE_95",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "p4_node_name": "營運報表",
+    "p4_node_code": "NODE_96",
+    "icon": "fas fa-file-contract"
+  },
+  {
+    "p4_node_name": "維護時間",
+    "p4_node_code": "NODE_97",
+    "icon": "fas fa-calendar-alt"
+  },
+  {
+    "p4_node_name": "交易帳號",
+    "p4_node_code": "NODE_98",
+    "icon": "fas fa-money-check"
+  },
+  {
+    "p4_node_name": "站台",
+    "p4_node_code": "NODE_99",
+    "icon": "fas fa-sitemap"
+  },
+  {
+    "p4_node_name": "紅利操作",
+    "p4_node_code": "NODE_100",
+    "icon": "fas fa-gift"
+  },
+  {
+    "p4_node_name": "風險控制",
+    "p4_node_code": "NODE_101",
+    "icon": "fas fa-calculator"
+  },
+  {
+    "p4_node_name": "登入紀錄",
+    "p4_node_code": "NODE_102",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "即時排行",
+    "p4_node_code": "NODE_103",
+    "icon": "fas fa-sort-amount-up-alt"
+  },
+  {
+    "p4_node_name": "錢包紀錄",
+    "p4_node_code": "NODE_104",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "黑名單",
+    "p4_node_code": "NODE_105",
+    "icon": "fas fa-ban"
+  },
+  {
+    "p4_node_name": "站台設定",
+    "p4_node_code": "NODE_106",
+    "icon": "fas fa-sitemap"
+  },
+  {
+    "p4_node_name": "遊戲帳號",
+    "p4_node_code": "NODE_107",
+    "icon": "fas fa-gamepad"
+  },
+  {
+    "p4_node_name": "客戶",
+    "p4_node_code": "NODE_108",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "p4_node_name": "賽事設定",
+    "p4_node_code": "NODE_109",
+    "icon": "fas fa-flag-checkered"
+  },
+  {
+    "p4_node_name": "預測結果",
+    "p4_node_code": "NODE_110",
+    "icon": "fas fa-check"
+  },
+  {
+    "p4_node_name": "工會管理",
+    "p4_node_code": "NODE_111",
+    "icon": "fas fa-handshake"
+  },
+  {
+    "p4_node_name": "類別",
+    "p4_node_code": "NODE_112",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "系統帳號",
+    "p4_node_code": "NODE_113",
+    "icon": "fas fa-user-shield"
+  },
+  {
+    "p4_node_name": "工會帳號",
+    "p4_node_code": "NODE_114",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "p4_node_name": "工會資訊",
+    "p4_node_code": "NODE_115",
+    "icon": "fas fa-info-circle"
+  },
+  {
+    "p4_node_name": "工會維護",
+    "p4_node_code": "NODE_116",
+    "icon": "fas fa-wrench"
+  },
+  {
+    "p4_node_name": "工會資訊",
+    "p4_node_code": "NODE_117",
+    "icon": "fas fa-info-circle"
+  },
+  {
+    "p4_node_name": "輔導工會",
+    "p4_node_code": "NODE_118",
+    "icon": "fas fa-brush"
+  },
+  {
+    "p4_node_name": "工會資訊",
+    "p4_node_code": "NODE_119",
+    "icon": "fas fa-info-circle"
+  },
+  {
+    "p4_node_name": "文件資料",
+    "p4_node_code": "NODE_120",
+    "icon": "fas fa-file-archive"
+  },
+  {
+    "p4_node_name": "文件資料",
+    "p4_node_code": "NODE_121",
+    "icon": "fas fa-file-archive"
+  },
+  {
+    "p4_node_name": "文件資料",
+    "p4_node_code": "NODE_122",
+    "icon": "fas fa-comments"
+  },
+  {
+    "p4_node_name": "文件資料",
+    "p4_node_code": "NODE_123",
+    "icon": "fas fa-comments"
+  },
+  {
+    "p4_node_name": "榮譽榜",
+    "p4_node_code": "NODE_124",
+    "icon": "fas fa-award"
+  },
+  {
+    "p4_node_name": "模範勞工維護",
+    "p4_node_code": "NODE_125",
+    "icon": "fas fa-user-graduate"
+  },
+  {
+    "p4_node_name": "模範勞工查詢",
+    "p4_node_code": "NODE_126",
+    "icon": "fas fa-search"
+  },
+  {
+    "p4_node_name": "績優工會維護",
+    "p4_node_code": "NODE_127",
+    "icon": "fas fa-building"
+  },
+  {
+    "p4_node_name": "績優工會查詢",
+    "p4_node_code": "NODE_128",
+    "icon": "fas fa-search"
+  },
+  {
+    "p4_node_name": "法令專區",
+    "p4_node_code": "NODE_129",
+    "icon": "fas fa-gavel"
+  },
+  {
+    "p4_node_name": "法令維護",
+    "p4_node_code": "NODE_130",
+    "icon": "fas fa-building"
+  },
+  {
+    "p4_node_name": "法令查詢",
+    "p4_node_code": "NODE_131",
+    "icon": "fas fa-search"
+  },
+  {
+    "p4_node_name": "團體補助",
+    "p4_node_code": "NODE_132",
+    "icon": "fas fa-funnel-dollar"
+  },
+  {
+    "p4_node_name": "勞工教育補助",
+    "p4_node_code": "NODE_133",
+    "icon": "fas fa-school"
+  },
+  {
+    "p4_node_name": "青年培力築夢踏實計劃",
+    "p4_node_code": "NODE_134",
+    "icon": "fas fa-shoe-prints"
+  },
+  {
+    "p4_node_name": "站內訊息",
+    "p4_node_code": "NODE_135",
+    "icon": "fas fa-envelope-square"
+  },
+  {
+    "p4_node_name": "類別",
+    "p4_node_code": "NODE_136",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "公佈欄",
+    "p4_node_code": "NODE_137",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "訊息管理",
+    "p4_node_code": "NODE_138",
+    "icon": "fas fa-envelope-square"
+  },
+  {
+    "p4_node_name": "類別",
+    "p4_node_code": "NODE_139",
+    "icon": "fas fa-file-signature"
+  },
+  {
+    "p4_node_name": "訊息維護",
+    "p4_node_code": "NODE_140",
+    "icon": "fas fa-tools"
+  },
+  {
+    "p4_node_name": "訊息通知",
+    "p4_node_code": "NODE_141",
+    "icon": "fas fa-bell"
+  },
+  {
+    "p4_node_name": "人力資源",
+    "p4_node_code": "NODE_142",
+    "icon": "fas fa-users"
+  },
+  {
+    "p4_node_name": "休假管理",
+    "p4_node_code": "NODE_143",
+    "icon": "fas fa-umbrella-beach"
+  },
+  {
+    "p4_node_name": "假別管理",
+    "p4_node_code": "NODE_144",
+    "icon": "fas fa-cog"
+  },
+  {
+    "p4_node_name": "差勤管理",
+    "p4_node_code": "NODE_145",
+    "icon": "fas fa-briefcase"
+  },
+  {
+    "p4_node_name": "班別設定",
+    "p4_node_code": "NODE_146",
+    "icon": "fas fa-cog"
+  },
+  {
+    "p4_node_name": "單位假表",
+    "p4_node_code": "NODE_147",
+    "icon": "fas fa-calendar-day"
+  },
+  {
+    "p4_node_name": "門市設定",
+    "p4_node_code": "NODE_148",
+    "icon": "fas fa-store"
+  },
+  {
+    "p4_node_name": "打卡鐘",
+    "p4_node_code": "NODE_149",
+    "icon": "fas fa-address-card"
+  },
+  {
+    "p4_node_name": "出勤紀錄",
+    "p4_node_code": "NODE_150",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "出勤紀錄",
+    "p4_node_code": "NODE_151",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "班別設定",
+    "p4_node_code": "NODE_152",
+    "icon": "fas fa-cog"
+  },
+  {
+    "p4_node_name": "統計報表",
+    "p4_node_code": "NODE_153",
+    "icon": "fas fa-file-contract"
+  },
+  {
+    "p4_node_name": "工會家數",
+    "p4_node_code": "NODE_154",
+    "icon": "fas fa-window-restore"
+  },
+  {
+    "p4_node_name": "負責人性別",
+    "p4_node_code": "NODE_155",
+    "icon": "fas fa-genderless"
+  },
+  {
+    "p4_node_name": "選制類別",
+    "p4_node_code": "NODE_156",
+    "icon": "fas fa-cubes"
+  },
+  {
+    "p4_node_name": "理監事性別",
+    "p4_node_code": "NODE_157",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "p4_node_name": "人數級距",
+    "p4_node_code": "NODE_158",
+    "icon": "fas fa-user-friends"
+  },
+  {
+    "p4_node_name": "單位假表",
+    "p4_node_code": "NODE_159",
+    "icon": "fas fa-calendar-day"
+  },
+  {
+    "p4_node_name": "管理假表",
+    "p4_node_code": "NODE_160",
+    "icon": "fas fa-cog"
+  },
+  {
+    "p4_node_name": "審核",
+    "p4_node_code": "NODE_161",
+    "icon": "fas fa-gavel"
+  },
+  {
+    "p4_node_name": "打卡審核",
+    "p4_node_code": "NODE_162",
+    "icon": "fas fa-address-card"
+  },
+  {
+    "p4_node_name": "打卡鐘",
+    "p4_node_code": "NODE_163",
+    "icon": "fas fa-address-card"
+  },
+  {
+    "p4_node_name": "倉庫綁定",
+    "p4_node_code": "NODE_164",
+    "icon": "fas fa-warehouse"
+  },
+  {
+    "p4_node_name": "客戶",
+    "p4_node_code": "NODE_165",
+    "icon": "fas fa-user-tie"
+  },
+  {
+    "p4_node_name": "電腦彩券",
+    "p4_node_code": "NODE_166",
+    "icon": "fas fa-ticket-alt"
+  },
+  {
+    "p4_node_name": "財務會計",
+    "p4_node_code": "NODE_167",
+    "icon": "fas fa-file-invoice-dollar"
+  },
+  {
+    "p4_node_name": "科目管理",
+    "p4_node_code": "NODE_168",
+    "icon": "fas fa-list"
+  },
+  {
+    "p4_node_name": "其他收支項目",
+    "p4_node_code": "NODE_169",
+    "icon": "fas fa-chart-bar"
+  },
+  {
+    "p4_node_name": "資產負債表科目(作廢)",
+    "p4_node_code": "NODE_170",
+    "icon": "fas fa-chart-bar"
+  },
+  {
+    "p4_node_name": "門市作業",
+    "p4_node_code": "NODE_180",
+    "icon": "fas fa-store"
+  },
+  {
+    "p4_node_name": "銷售紀錄",
+    "p4_node_code": "NODE_181",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "日記帳",
+    "p4_node_code": "NODE_182",
+    "icon": "fas fa-book"
+  },
+  {
+    "p4_node_name": "流動資產項目",
+    "p4_node_code": "NODE_183",
+    "icon": "fas fa-list"
+  },
+  {
+    "p4_node_name": "其他收支",
+    "p4_node_code": "NODE_184",
+    "icon": "fas fa-file-alt"
+  },
+  {
+    "p4_node_name": "審核",
+    "p4_node_code": "NODE_185",
+    "icon": "fas fa-gavel"
+  },
+  {
+    "p4_node_name": "銷售紀錄",
+    "p4_node_code": "NODE_186",
+    "icon": "fas fa-file-medical-alt"
+  },
+  {
+    "p4_node_name": "其他收支",
+    "p4_node_code": "NODE_187",
+    "icon": "fas fa-file-alt"
+  },
+  {
+    "p4_node_name": "線上叫貨",
+    "p4_node_code": "NODE_188",
+    "icon": "fas fa-phone-volume"
+  },
+  {
+    "p4_node_name": "出貨管理",
+    "p4_node_code": "NODE_189",
+    "icon": "fas fa-truck-loading"
+  },
+  {
+    "p4_node_name": "損益分紅",
+    "p4_node_code": "NODE_190",
+    "icon": "fas fa-file-alt"
+  },
+  {
+    "p4_node_name": "每日提交",
+    "p4_node_code": "NODE_191",
+    "icon": "fas fa-window-restore"
+  },
+  {
+    "p4_node_name": "每日明細",
+    "p4_node_code": "NODE_192",
+    "icon": "fas fa-calendar-day"
+  },
+  {
+    "p4_node_name": "各店明細",
+    "p4_node_code": "NODE_193",
+    "icon": "fas fa-store"
+  },
+  {
+    "p4_node_name": "總表",
+    "p4_node_code": "NODE_194",
+    "icon": "fas fa-file-alt"
+  },
+  {
+    "p4_node_name": "資產負債表",
+    "p4_node_code": "NODE_195",
+    "icon": "fas fa-file-alt"
+  },
+  {
+    "p4_node_name": "資本",
+    "p4_node_code": "NODE_196",
+    "icon": "fas fa-file-invoice-dollar"
+  },
+  {
+    "p4_node_name": "損益表",
+    "p4_node_code": "NODE_197",
+    "icon": "fas fa-file-alt"
+  },
+  {
+    "p4_node_name": "門市庫存",
+    "p4_node_code": "NODE_198",
+    "icon": "fas fa-boxes"
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "content": "Konten",
+  "type": "Ketik",
+  "IP": "IP",
+  "PHONE_NUMBER": "Telepon",
+  "TRANSACTION_ACCOUNT": "Akun",
+  "COMMUNICATION_SOFTWARE": "Perangkat Lunak Komunikasi",
+  "creator": "Pencipta",
+  "commName": "Perangkat Lunak Komunikasi",
+  "LINE": "LINE",
+  "WHATAPP": "WHATAPP",
+  "FACEBOOK_MESSENGER": "FACEBOOK",
+  "TELEGRAM": "TELEGRAM",
+  "WEIXIN": "WeChat",
+  "QQ": "QQ",
+  "VIBER": "Viber"
+}

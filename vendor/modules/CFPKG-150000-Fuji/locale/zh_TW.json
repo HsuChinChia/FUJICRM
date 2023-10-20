@@ -1,0 +1,68 @@
+{
+  "permission": {
+    "role_description": "權限角色的列表",
+    "role": "角色列表"
+  },
+  "account-system_description": "系統帳號帳號的列表內容",
+  "account-system": "系統帳號列表",
+  "create_account": "新增帳號",
+  "account-system_lists": "帳號列表",
+  "account-system_placeholder": "帳號、姓名",
+  "company-setting_description": "總覽公司設定的列表內容",
+  "company-setting_placeholder": "公司名稱、統一編號、負責人姓名",
+  "create_company-setting": "新增公司",
+  "account-loginRecord_description": "系統帳號的登入記錄列表",
+  "account-loginRecord_lists": "登入記錄列表",
+  "company-setting_lists": "公司列表",
+  "account-company_placeholder": "帳號、姓名、公司名稱",
+  "company-setting": {
+    "name": "公司名稱",
+    "tax_id": "統一編號",
+    "name_of_person_in_charge": "負責人姓名",
+    "phone_of_person_in_charge": "負責人電話",
+    "country_of_citizenship": "國籍",
+    "address": "公司地址",
+    "memo": "備註"
+  },
+  "account-company": {
+    "account": "帳號",
+    "password": "密碼",
+    "status": "狀態",
+    "status_0": "啟用",
+    "status_1": "停用",
+    "memo": "備註",
+    "role_id": "角色ID",
+    "csg_id": "公司設定ID",
+    "tel": "電話",
+    "email": "email",
+    "department": "部門",
+    "position": "職務"
+  },
+  "upload": "上傳檔案",
+  "create_kms-data": "新增KMS",
+  "kms-data_description": "總覽視訊KMS的列表內容",
+  "kms-data_placeholder": "標題、公司名稱、發起者、參與者",
+  "kms-data": {
+    "title": "標題",
+    "datetime": "日期",
+    "created_p3_ant_id": "發起者",
+    "participant_p3_ant_id": "參與者",
+    "csg_id": "公司",
+    "content": "內容",
+    "ids": "附加檔案"
+  },
+  "create_device-binding": "新增裝置",
+  "device-binding_description": "總覽視訊裝置的列表內容",
+  "device-binding_placeholder": "MAC Address、公司名稱",
+  "device-binding": {
+    "csg_id": "公司",
+    "csg_account": "公司帳號"
+  },
+  "refresh": "重新整理",
+  "video-system_description": "卡片依照公司名稱及分連線時間排序，點擊卡片後，即可進入視訊",
+  "video-system_placeholder": "帳號、姓名、公司名稱",
+  "remember": "記住帳號",
+  "forget": "忘記密碼",
+  "accountLogin": "帳號登入",
+  "video-system": "視訊系統"
+}

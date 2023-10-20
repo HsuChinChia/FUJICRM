@@ -1,0 +1,24 @@
+{
+  "status": {
+    "id": "search_p3_bre_status",
+    "label": "Permission.role.status",
+    "options": [
+      {
+        "value": "3",
+        "label": "Util.abled",
+        "icon": "fas fa-check",
+        "color": "success"
+      },
+      {
+        "value": "-2",
+        "label": "Util.disabled",
+        "icon": "fas fa-ban",
+        "color": "danger"
+      }
+    ]
+  },
+  "name": {
+    "id": "search_p3_bre_name",
+    "label": "Permission.role.name"
+  }
+}
